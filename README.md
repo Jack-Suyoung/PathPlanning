@@ -12,7 +12,7 @@ Path Planning algorithm for Autonomous Vehilce / Mobile Robot
 | Path Planning Algorithm | Interpolating Curve | Bezier Curve | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Interpolating Curve | B-Spline | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Interpolating Curve | Polynomial Curve | 그림 | 제약/목적 사항 만족 여부 | Tistory |
-| Path Planning Algorithm | Grid Search | A* | 그림 | 제약/목적 사항 만족 여부 | Tistory |
+| Path Planning Algorithm | Grid Search | A* | 그림 | 제약/목적 사항 만족 여부 | https://iridescentboy.tistory.com/75 |
 | Path Planning Algorithm | Grid Search | Hybrid A* | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Grid Search | D*, D* Lite | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Grid Search | State Lattice | 그림 | 제약/목적 사항 만족 여부 | Tistory |
