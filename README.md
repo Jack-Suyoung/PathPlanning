@@ -18,7 +18,7 @@ Path Planning algorithm for Autonomous Vehilce / Mobile Robot
 | Path Planning Algorithm | Grid Search | State Lattice | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Sampling | RRT * | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | Learning | Reinforcement Learning | 그림 | 제약/목적 사항 만족 여부 | Tistory |
-| Path Planning Algorithm | Learning | Imitation Learning | 그림 | 제약/목적 사항 만족 여부 | SafetyNet : https://iridescentboy.tistory.com/77 |
+| Path Planning Algorithm | Learning | Imitation Learning | 그림 | 제약/목적 사항 만족 여부 | SafetyNet : https://iridescentboy.tistory.com/77 <br> VectorNet : https://iridescentboy.tistory.com/78|
 | Path Planning Algorithm | ETC | Corridor Map | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | ETC | Voronoi Diagram | 그림 | 제약/목적 사항 만족 여부 | Tistory |
 | Path Planning Algorithm | ETC | Potential Field | 그림 | 제약/목적 사항 만족 여부 | Tistory |
