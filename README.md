@@ -40,3 +40,7 @@ Path Planning algorithm for Autonomous Vehilce / Mobile Robot
 1. Kinematic Bicycle Model
 2. Dynamic Model
 3. Tractor Trailer Model
+<br><br><br>
+
+# Learning
+1. Graph Neural Network : https://iridescentboy.tistory.com/79
