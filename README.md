@@ -40,6 +40,8 @@ Path Planning algorithm for Autonomous Vehilce / Mobile Robot
 1. Kinematic Bicycle Model
 2. Dynamic Model
 3. Tractor Trailer Model
+4. Deep Kinematic Model : How to set kinematic feasibility of neural network output path
+   * https://iridescentboy.tistory.com/80
 <br><br><br>
 
 # Learning
